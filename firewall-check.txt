@@ -1,0 +1,17 @@
+Firewall Configuration Check
+
+Purpose:
+This file contains basic steps for checking
+firewall security.
+
+Security Checks:
+
+1. Check whether Windows Firewall is enabled.
+2. Review the firewall rules.
+3. Check for unwanted open ports.
+4. Identify unusual firewall settings.
+5. Report possible security problems.
+
+Expected Result:
+The checklist helps users identify basic
+firewall configuration problems.
